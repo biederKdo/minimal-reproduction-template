@@ -6,11 +6,13 @@ Then replace the current `h1` with the Renovate Issue/Discussion number.
 
 ## Current behavior
 
-Explain the current behavior here.
+Running renovate results in `Error updating branch: update failure`
+
+https://developer.mend.io/github/biederKdo/minimal-reproduction-template/-/job/01961dda-4ead-775f-ba8f-6101df0f8a67
 
 ## Expected behavior
 
-Explain the expected behavior here.
+The branch should have been created.
 
 ## Link to the Renovate issue or Discussion
 
